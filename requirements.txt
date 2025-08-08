@@ -1,0 +1,6 @@
+py7zr
+rarfile
+matplotlib
+plotly
+pandas
+
