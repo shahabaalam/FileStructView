@@ -76,22 +76,6 @@ python StructView.py
 
 ---
 
-## 🗂 .gitignore
-
-The `.gitignore` includes:
-
-```
-venv/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.DS_Store
-.env
-```
-
----
-
 ## 💡 Project Idea
 
 **FileStructView** helps developers, researchers, and data analysts quickly understand the contents of large datasets or codebases without manually browsing folders.
